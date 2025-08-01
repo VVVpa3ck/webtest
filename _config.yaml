@@ -5,7 +5,8 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
-
+url: "https://vvvpa3ck.github.io"
+baseurl: "/webtest"
 # site social media and other links
 links:
   email: contact@your-lab.com
